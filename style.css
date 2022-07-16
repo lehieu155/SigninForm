@@ -1,0 +1,13 @@
+tr th{
+    background-color: orange;
+}
+tr td p{
+    text-align: center;
+}
+form{
+    width: 350px;
+}
+form h1{
+    background: rgb(127, 213, 247);
+    text-align: center;
+}
